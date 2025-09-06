@@ -11,9 +11,9 @@ This might be my first time using github but I am looking forward to learn this 
  '''
 git status
  '''
-Fav notes
--[X] Marine
--[X] Ozonic
--[X] Aquatic
--[X] Lavender
--[X] Vanilla
+ Fav notes: 
+- [X] Marine
+- [X] Ozonic
+- [X] Aquatic
+- [X] Lavender
+- [X] Vanilla
