@@ -17,3 +17,4 @@ git status
 - [X] Aquatic
 - [X] Lavender
 - [X] Vanilla
+- [ ] C notes
