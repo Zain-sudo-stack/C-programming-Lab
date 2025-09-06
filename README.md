@@ -8,9 +8,9 @@ This might be my first time using github but I am looking forward to learn this 
 **Food**
  *Pastas* 
  ~~With ketchup~~
- '''bash
+ ```
 git status
- '''
+ ```
  Fav notes: 
 - [X] Marine
 - [X] Ozonic
